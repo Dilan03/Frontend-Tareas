@@ -1,0 +1,28 @@
+.container {
+   width: 50%;
+   margin: 0 auto;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-color: #95ABE2;
+   height: 100vh;
+   padding: 30px;
+}
+
+body {
+   padding: 0;
+   margin: 0;
+   background: #a8c9d9;
+   font-family: 'Courier New', Courier, monospace;
+
+}
+
+h1 {
+   font-size: 50px;
+}
+
+li,ul {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+}
