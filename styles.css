@@ -4,8 +4,8 @@
    display: flex;
    flex-direction: column;
    align-items: center;
-   background-color: #95ABE2;
-   height: 100vh;
+   background-color: #455d9b;
+   height: 100%;
    padding: 30px;
 }
 
@@ -25,4 +25,8 @@ li,ul {
    margin: 0;
    padding: 0;
    list-style: none;
+}
+
+p {
+   color: whitesmoke;
 }
